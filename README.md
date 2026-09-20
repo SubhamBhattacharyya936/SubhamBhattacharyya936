@@ -195,6 +195,27 @@ Developing mobile applications using **Flutter and Dart**, with modern UI design
 
 ---
 
+## 🎓 Education & Certifications
+
+### 🎓 Bachelor of Computer Applications — BCA
+
+**Mangaldai College (Autonomous)**  
+Gauhati University
+
+**Status:** Completed ✅
+
+---
+
+### 📜 C Programming Certificate
+
+Completed a **C Programming Certificate Course** conducted remotely by **IIT Bombay**.
+
+**Course:** C Programming  
+**Mode:** Remote / Online  
+**Conducted by:** IIT Bombay
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
@@ -236,34 +257,6 @@ Developing mobile applications using **Flutter and Dart**, with modern UI design
 
 ---
 
-## 🎓 Education & Certifications
-
-### 🎓 Bachelor of Computer Applications — BCA
-
-**Mangaldai College (Autonomous)**  
-Gauhati University
-
-**Status:** Completed ✅
-
----
-
-### 📜 C Programming Certificate
-
-Completed a **C Programming Certificate Course** conducted remotely by **IIT Bombay**.
-
-**Course:** C Programming  
-**Mode:** Remote / Online  
-**Conducted by:** IIT Bombay
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SubhamBhattacharyya936&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamBhattacharyya936&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🔥 GitHub Streak
 
