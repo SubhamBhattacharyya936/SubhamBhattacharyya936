@@ -2,7 +2,7 @@
 
 ### 💻 Full-Stack Developer | 🤖 AI Developer | 📱 Flutter Developer | 🏢 Software Company Owner
 
-I am a Full-Stack Developer and AI Developer focused on building practical web, mobile, and AI-powered software solutions.
+I am a **Full-Stack Developer, AI Developer, Software Developer, and Instructor** from Assam, India. I build practical web applications, mobile applications, AI-powered systems, and software solutions for real-world needs.
 
 I currently work as an **Instructor at District Computer Centre, Darrang**, and I am also the **Owner & Software Developer of Essay Growth Software Company**.
 
@@ -11,27 +11,17 @@ I currently work as an **Instructor at District Computer Centre, Darrang**, and 
 ## 👨‍💻 About Me
 
 - 🎓 **BCA Graduate**
-- 👨‍🏫 **Instructor at District Computer Centre, Darrang**
+- 👨‍🏫 **Instructor — District Computer Centre, Darrang**
 - 🏢 **Owner & Software Developer — Essay Growth Software Company**
+- 💻 **3+ Years of Web Application Development Experience**
 - 🤖 **AI Developer**
-- 💻 Full-Stack Web Developer
+- 🌐 Full-Stack Web Developer
 - 📱 Flutter & Dart Developer
-- 🌐 PHP & MySQL Developer
-- ⚛️ React Developer
 - 🐍 Python Developer
+- ⚛️ React Developer
+- 🌐 PHP & MySQL Developer
 - 👁️ Computer Vision & AI Enthusiast
 - 📍 Assam, India
-
----
-
-## 🎓 Education & Certifications
-
-### 🎓 Bachelor of Computer Applications (BCA)
-**Mangaldai College (Autonomous)**  
-Gauhati University
-
-### 📜 C Programming Certificate
-Completed a **C Programming Certificate Course** conducted remotely by **IIT Bombay**.
 
 ---
 
@@ -39,15 +29,169 @@ Completed a **C Programming Certificate Course** conducted remotely by **IIT Bom
 
 ### 👨‍🏫 Instructor — District Computer Centre, Darrang
 
-Currently working as an Instructor at **District Computer Centre, Darrang**, where I work with computer education, practical training, and technology-related learning.
+Currently working as an **Instructor at District Computer Centre, Darrang**, where I provide computer education, practical training, programming guidance, and technology-related learning.
+
+**Responsibilities & Areas:**
+
+- 👨‍💻 Computer and software technology training
+- 🧑‍🏫 Practical programming education
+- 💻 Web development guidance
+- 🤖 AI and modern technology learning
+- 🛠️ Practical software and application development
+
+---
 
 ### 🏢 Owner & Software Developer — Essay Growth Software Company
 
-Founder and owner of **Essay Growth Software Company**, working on software development and technology solutions.
+Founder and owner of **Essay Growth Software Company**, working on software development, web applications, AI solutions, and practical digital products.
 
-### 🤖 AI Developer
+**Focus Areas:**
 
-Developing practical AI-based applications using Python, Computer Vision, Machine Learning, and AI technologies.
+- 💻 Web Application Development
+- 🌐 Website Development
+- 🤖 AI-Powered Software
+- 📱 Application Development
+- 🛠️ Custom Software Solutions
+- 🚀 Digital Product Development
+
+---
+
+### 💻 Web Application Developer — 3+ Years Experience
+
+I have **3+ years of experience in web application development**, working on practical websites, web applications, backend systems, databases, responsive interfaces, and custom software solutions.
+
+**Development Areas:**
+
+- 🌐 Responsive Website Development
+- 💻 Web Application Development
+- 🔐 Backend Development
+- 🗄️ Database Management
+- ⚙️ PHP Backend Systems
+- 📱 Mobile-Friendly Web Applications
+- 🤖 AI-Assisted Development
+
+**Core Technologies:**
+
+`HTML` • `CSS` • `JavaScript` • `PHP` • `MySQL` • `React` • `Python`
+
+---
+
+## 🌐 Web Development Projects
+
+### 🚀 UpdatesAll.site
+
+**UpdatesAll.site** is a job and examination information platform providing:
+
+- 📢 Job Notifications
+- 📝 Examination Updates
+- 🎫 Admit Card Information
+- 📊 Results
+- 📅 Important Dates
+- 🔎 Search and Category Features
+
+**Technologies:**
+
+`PHP` • `MySQL` • `HTML` • `CSS` • `JavaScript`
+
+🔗 **Website:** [https://updatesall.site](https://updatesall.site)
+
+---
+
+### 🍰 Devangi Bakery Cake Hub
+
+A website project developed for **Devangi Bakery Cake Hub** to create an online presence for the bakery and showcase its products and services.
+
+**Project Type:**
+
+`Business Website` • `Responsive Web Design`
+
+**Technologies:**
+
+`HTML` • `CSS` • `JavaScript`
+
+🔗 **Live Website:** [Devangi Bakery Cake Hub](https://devangibakerycakehub.netlify.app)
+
+---
+
+## 🤖 AI Development
+
+I am actively developing and exploring practical **Artificial Intelligence applications** using Python and modern AI technologies.
+
+### AI Areas
+
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 👁️ Computer Vision
+- 📷 OpenCV
+- 👤 Face Recognition
+- 🐍 Python AI Development
+- 📊 Data Processing
+- 🔧 AI-Assisted Software Development
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Attendance Manager
+
+An AI-powered student attendance management system using **face recognition and computer vision**.
+
+**Features:**
+
+- 👤 Face Recognition
+- 📸 Camera-Based Detection
+- 📝 Automatic Attendance
+- 📊 Attendance Records
+- 🗂️ Student Management
+- 💾 Attendance Data Storage
+
+**Technologies:**
+
+`Python` • `OpenCV` • `Face Recognition` • `AI`
+
+---
+
+### 🧠 Local AI
+
+A Python-based AI project focused on exploring local AI functionality and AI-powered applications.
+
+**Technologies:**
+
+`Python` • `AI` • `Machine Learning`
+
+---
+
+### 🌐 UpdatesAll.site
+
+Job, examination, result, and admit-card information platform.
+
+**Technologies:**
+
+`PHP` • `MySQL` • `HTML` • `CSS` • `JavaScript`
+
+🔗 [Visit UpdatesAll.site](https://updatesall.site)
+
+---
+
+### 🍰 Devangi Bakery Cake Hub
+
+Business website developed for **Devangi Bakery Cake Hub**.
+
+**Technologies:**
+
+`HTML` • `CSS` • `JavaScript`
+
+🔗 [Visit Website](https://devangibakerycakehub.netlify.app)
+
+---
+
+### 📱 Flutter Applications
+
+Developing mobile applications using **Flutter and Dart**, with modern UI design and backend integration.
+
+**Technologies:**
+
+`Flutter` • `Dart` • `PHP` • `MySQL`
 
 ---
 
@@ -66,7 +210,6 @@ Developing practical AI-based applications using Python, Computer Vision, Machin
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
@@ -83,48 +226,34 @@ Developing practical AI-based applications using Python, Computer Vision, Machin
 ### 🤖 AI & Machine Learning
 
 - 🐍 Python
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
 - 👁️ Computer Vision
 - 📷 OpenCV
 - 👤 Face Recognition
-- 🧠 Machine Learning
-- 🤖 Artificial Intelligence
-- 🔧 AI-assisted Software Development
+- 📊 Data Processing
+- 🔧 AI-Assisted Development
 
 ---
 
-## 🚀 Featured Projects
+## 🎓 Education & Certifications
 
-### 🤖 AI Attendance Manager
+### 🎓 Bachelor of Computer Applications — BCA
 
-An AI-powered attendance management system using face recognition and computer vision.
+**Mangaldai College (Autonomous)**  
+Gauhati University
 
-**Technologies:** Python • OpenCV • Face Recognition • AI
-
----
-
-### 🧠 Local AI
-
-A Python-based local AI project focused on exploring AI functionality and local processing.
-
-**Technologies:** Python • AI
+**Status:** Completed ✅
 
 ---
 
-### 🌐 UpdatesAll.site
+### 📜 C Programming Certificate
 
-A web platform providing job notifications, exam updates, results, admit cards, and other important updates.
+Completed a **C Programming Certificate Course** conducted remotely by **IIT Bombay**.
 
-**Technologies:** PHP • MySQL • HTML • CSS • JavaScript
-
-🔗 [Visit UpdatesAll.site](https://updatesall.site)
-
----
-
-### 🏢 Essay Growth Software
-
-Software development initiative focused on building practical digital solutions and applications.
-
-**Role:** Owner & Software Developer
+**Course:** C Programming  
+**Mode:** Remote / Online  
+**Conducted by:** IIT Bombay
 
 ---
 
@@ -142,36 +271,14 @@ Software development initiative focused on building practical digital solutions 
 
 ---
 
-## 🎯 Currently Working On
+## 📈 Development Focus
 
-- 🤖 AI-powered applications
-- 👁️ Computer Vision projects
-- 💻 Full-Stack Web Applications
-- 📱 Flutter Applications
-- 🏢 Software development through Essay Growth
-- 🚀 Real-world technology solutions
-
----
-
-## 🌐 Connect With Me
-
-🌍 **Portfolio:**  
-https://subhambhattacharyya.netlify.app
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/subham-bhattacharyya-05b286301
-
-📧 **Email:**  
-subhambhattacharyya71@gmail.com
-
----
-
-## 📌 My Goal
-
-> **Build useful software, explore Artificial Intelligence, and create practical technology solutions for real-world problems.**
-
----
-
-### 💡 Keep Learning. Keep Building. Keep Creating. 🚀
-
-⭐ Feel free to explore my repositories and projects!
+```text
+Web Development       ████████████████████
+AI Development        ██████████████████
+Python                ██████████████████
+PHP & MySQL           █████████████████
+Flutter               ███████████████
+React                 ██████████████
+Computer Vision       █████████████
+Machine Learning      ████████████
