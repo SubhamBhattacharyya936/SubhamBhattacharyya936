@@ -161,30 +161,6 @@ A Python-based AI project focused on exploring local AI functionality and AI-pow
 
 ---
 
-### 🌐 UpdatesAll.site
-
-Job, examination, result, and admit-card information platform.
-
-**Technologies:**
-
-`PHP` • `MySQL` • `HTML` • `CSS` • `JavaScript`
-
-🔗 [Visit UpdatesAll.site](https://updatesall.site)
-
----
-
-### 🍰 Devangi Bakery Cake Hub
-
-Business website developed for **Devangi Bakery Cake Hub**.
-
-**Technologies:**
-
-`HTML` • `CSS` • `JavaScript`
-
-🔗 [Visit Website](https://devangibakerycakehub.netlify.app)
-
----
-
 ### 📱 Flutter Applications
 
 Developing mobile applications using **Flutter and Dart**, with modern UI design and backend integration.
