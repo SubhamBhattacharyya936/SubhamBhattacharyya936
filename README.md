@@ -10,11 +10,8 @@ I currently work as an **Instructor at District Computer Centre, Darrang**, and 
 
 ## 👨‍💻 About Me
 
-- 🎓 **BCA Graduate**
-- 👨‍🏫 **Instructor — District Computer Centre, Darrang**
 - 🏢 **Owner & Software Developer — Essay Growth Software Company**
 - 💻 **3+ Years of Web Application Development Experience**
-- 🤖 **AI Developer**
 - 🌐 Full-Stack Web Developer
 - 📱 Flutter & Dart Developer
 - 🐍 Python Developer
